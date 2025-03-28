@@ -1,4 +1,5 @@
-const BASE_URL = 'https://g01c8462bed7f63-product.adb.ap-seoul-1.oraclecloudapps.com/ords/podo/v2/ad/';
+const BASE_URL = 'https://g01c8462bed7f63-apexdev.adb.ap-seoul-1.oraclecloudapps.com/ords/opodo/v1/ad/';
+
 
 const DEVICE_URL = 'devices';
 const POSITION_URL = 'devices/position';
